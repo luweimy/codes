@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BBEA8BEE-CFF5-4E12-B269-AB10B7DCB142</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BatchRename</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D20BDE23-0375-4B4F-8C52-0EE8EF5FE000</key>
+		<string>http://192.168.2.101/svn/EGame-HeroDoNotRude</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>branches/Tools/BatchRename/BatchRename.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D20BDE23-0375-4B4F-8C52-0EE8EF5FE000</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>D20BDE23-0375-4B4F-8C52-0EE8EF5FE000</key>
+		<string>http://192.168.2.101/svn/EGame-HeroDoNotRude</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://192.168.2.101/svn/EGame-HeroDoNotRude/branches/Tools/BatchRename/BatchRename.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D20BDE23-0375-4B4F-8C52-0EE8EF5FE000</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D20BDE23-0375-4B4F-8C52-0EE8EF5FE000</string>
+			<key>IDESourceControlWCCName</key>
+			<string>EGame-HeroDoNotRude</string>
+		</dict>
+	</array>
+</dict>
+</plist>

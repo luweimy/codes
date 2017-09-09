@@ -1,0 +1,1 @@
+pngc: it is a png compress tool which depends on pngquant, written by python. Just execute python compress.py to see usage

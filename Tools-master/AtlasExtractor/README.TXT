@@ -1,0 +1,1 @@
+AtlasExtractor: a tool can parse texture atlas and output every single image. Use "-h" to show how to use. The project can be directly run and result can be found in test/output folder

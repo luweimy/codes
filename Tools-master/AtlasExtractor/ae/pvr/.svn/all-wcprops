@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ResourceBackup/!svn/ver/12/Tools/AtlasExtractor/ae/pvr
+END
+PVRTMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ResourceBackup/!svn/ver/12/Tools/AtlasExtractor/ae/pvr/PVRTMap.h
+END
+PVRTArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ResourceBackup/!svn/ver/12/Tools/AtlasExtractor/ae/pvr/PVRTArray.h
+END
+PVRTGlobal.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ResourceBackup/!svn/ver/12/Tools/AtlasExtractor/ae/pvr/PVRTGlobal.h
+END
+PVRTTexture.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ResourceBackup/!svn/ver/12/Tools/AtlasExtractor/ae/pvr/PVRTTexture.h
+END
+PVRTextureFormat.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ResourceBackup/!svn/ver/12/Tools/AtlasExtractor/ae/pvr/PVRTextureFormat.h
+END
+PVRTextureHeader.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ResourceBackup/!svn/ver/12/Tools/AtlasExtractor/ae/pvr/PVRTextureHeader.h
+END
+PVRTString.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ResourceBackup/!svn/ver/12/Tools/AtlasExtractor/ae/pvr/PVRTString.h
+END
+PVRTextureUtilities.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ResourceBackup/!svn/ver/12/Tools/AtlasExtractor/ae/pvr/PVRTextureUtilities.h
+END
+PVRTError.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ResourceBackup/!svn/ver/12/Tools/AtlasExtractor/ae/pvr/PVRTError.h
+END
+PVRTexLibVersion.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ResourceBackup/!svn/ver/12/Tools/AtlasExtractor/ae/pvr/PVRTexLibVersion.h
+END
+PVRTextureDefines.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ResourceBackup/!svn/ver/12/Tools/AtlasExtractor/ae/pvr/PVRTextureDefines.h
+END
+PVRTexture.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ResourceBackup/!svn/ver/12/Tools/AtlasExtractor/ae/pvr/PVRTexture.h
+END
